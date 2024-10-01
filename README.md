@@ -8,7 +8,7 @@ This project demonstrates the application of three popular data science methodol
 1. **CRISP-DM (Cross-Industry Standard Process for Data Mining)**
 2. **SEMMA (Sample, Explore, Modify, Model, Assess)**
 3. **KDD (Knowledge Discovery in Databases)**
-4. 
+
 ## Methodology Details
 
 ### 1. CRISP-DM
