@@ -19,7 +19,6 @@ This project demonstrates the application of three popular data science methodol
   - Data Preparation
   - Modeling
   - Evaluation
-  - Deployment
 - **Results**: [Brief summary of results]
 
 ### 2. SEMMA
@@ -44,5 +43,6 @@ This project demonstrates the application of three popular data science methodol
 
 ## Tools and Technologies Used
 - **Python**: For data processing and analysis.
-- **Jupyter Notebooks**: For implementing the methodologies.
 - **Google Colab**: For running experiments.
+- **Overleaf**: For research paper.
+- **Medium**: For publishing medium article.
