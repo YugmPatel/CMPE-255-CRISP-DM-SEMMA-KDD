@@ -10,7 +10,6 @@ The CRISP-DM process follows six key stages:
 3. **Data Preparation**
 4. **Modeling**
 5. **Evaluation**
-6. **Deployment**
 
 In this project, we explore how each of these stages is applied to a retail dataset to identify customer purchasing behaviors, forecast sales, and improve business strategies.
 
@@ -39,23 +38,6 @@ You can find the dataset on [Kaggle](https://www.kaggle.com/datasets/ulrikthygep
 
 - **Medium Article**: [Exploring CRISP-DM: Analyzing Online Retail Data](<https://medium.com/@yugmmaneshkumar.patel/how-crisp-dm-unlocks-the-power-of-data-science-step-by-step-walkthrough-aa0e16b4e439>)
 - **Google Colab Notebook**: [CRISP-DM Analysis](<https://colab.research.google.com/drive/1YmGth99YpqYl5qMItrJKNbm8FNOXe6oe>)
-
-## How to Run the Project
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/CRISP_DM_Project.git
-    ```
-2. Navigate to the project folder:
-    ```bash
-    cd CRISP_DM_Project
-    ```
-3. Install the required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Open the Google Colab notebook to run the analysis:
-    - [CRISP-DM Analysis](<https://colab.research.google.com/drive/1YmGth99YpqYl5qMItrJKNbm8FNOXe6oe>)
 
 ## Results
 
